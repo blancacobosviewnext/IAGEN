@@ -1,3 +1,3 @@
-# Initial Project Documentation
+# IAGEN - Documentación Inicial del Proyecto
 
-This file is a placeholder for workflow-generated project documentation.
+Este archivo contiene la documentación inicial del proyecto.
